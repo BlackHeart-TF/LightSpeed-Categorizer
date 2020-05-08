@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Categorizer", "Categorizer\Categorizer.csproj", "{D48CA33D-B5C3-4282-8267-31A99185D2C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lightspeed.NET-net472", "Lightspeed.Net\Lightspeed.NET-net472.csproj", "{E5C11436-DA95-4A8A-8FD9-79A6F195D366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48CA33D-B5C3-4282-8267-31A99185D2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48CA33D-B5C3-4282-8267-31A99185D2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48CA33D-B5C3-4282-8267-31A99185D2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48CA33D-B5C3-4282-8267-31A99185D2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C11436-DA95-4A8A-8FD9-79A6F195D366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C11436-DA95-4A8A-8FD9-79A6F195D366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C11436-DA95-4A8A-8FD9-79A6F195D366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C11436-DA95-4A8A-8FD9-79A6F195D366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A4F3FE1-5B1C-4CD6-B386-972A8691E480}
+	EndGlobalSection
+EndGlobal

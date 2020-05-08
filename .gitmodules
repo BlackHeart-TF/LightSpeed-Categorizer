@@ -1,0 +1,6 @@
+[submodule "Lightspeed.Net"]
+	path = Lightspeed.Net
+	url = https://github.com/PetNoire/Lightspeed.Net.git
+[submodule "LightSpeed.NET"]
+	path = LightSpeed.NET
+	url = https://github.com/PetNoire/LightSpeed.NET.git
