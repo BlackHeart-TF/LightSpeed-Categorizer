@@ -62,7 +62,7 @@ namespace Categorizer
             {
                 Lightspeed.AuthenticationClient.Login(textBox1.Text, textBox2.Text);
             }
-            catch (BadAuthenticationRequestException)
+            catch (AuthException)
             {
                     MessageBox.Show("Login Failed", "Wrong Username or Password",MessageBoxButtons.OK);
             }
